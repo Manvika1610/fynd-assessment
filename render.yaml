@@ -6,8 +6,8 @@ services:
     name: fynd-task2-app
     env: python
     plan: free
-    buildCommand: pip install -r requirements.txt && python fynd_task2/manage.py migrate
-    startCommand: gunicorn fynd_task2.wsgi --log-file -
+    buildCommand: bash build.sh
+    startCommand: gunicorn fynd_task2.wsgi --log-file - --chdir fynd_task2
     envVars:
       - key: DJANGO_SECRET_KEY
         generateValue: true
