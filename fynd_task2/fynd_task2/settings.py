@@ -42,8 +42,16 @@ if not SECRET_KEY:
 # Read DEBUG from environment (set DJANGO_DEBUG=False in production).
 DEBUG = os.getenv('DJANGO_DEBUG', 'True') == 'True'
 
-# Allow hosts from environment for deployment; default to localhost for dev.
-ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', 'localhost,127.0.0.1').split(',')
+# Allow hosts from environment for deployment; allow all in dev if DEBUG=True.
+allowed_hosts_str = os.getenv('ALLOWED_HOSTS', '')
+if allowed_hosts_str:
+    ALLOWED_HOSTS = [h.strip() for h in allowed_hosts_str.split(',')]
+elif DEBUG:
+    # In development (DEBUG=True), allow localhost and 127.0.0.1
+    ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+else:
+    # In production without explicit ALLOWED_HOSTS, allow all (let reverse proxy handle security)
+    ALLOWED_HOSTS = ['*']
 
 
 # Application definition
