@@ -1,0 +1,57 @@
+{% extends 'feedback/base.html' %}
+
+{% block content %}
+
+<h3>User Feedback</h3>
+<p class="text-muted">Submit your rating and review. AI will respond with summary, action, and reply.</p>
+
+<div class="row">
+  <div class="col-md-7">
+
+    <form method="post" class="card card-body shadow-sm">
+      {% csrf_token %}
+      <div class="mb-3">
+        <label class="form-label">Rating (1–5)</label>
+        {{ form.rating }}
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Review</label>
+        {{ form.review_text }}
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit Review</button>
+    </form>
+
+    {% if error %}
+    <div class="alert alert-danger mt-3">
+      {{ error }}
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="col-md-5">
+    <h4>AI Response</h4>
+
+    {% if result %}
+      <div class="card shadow-sm mb-3">
+        <div class="card-body">
+
+          <h5>Summary</h5>
+          <p>{{ result.ai_summary }}</p>
+
+          <h6 class="mt-3">Suggested Action</h6>
+          <p>{{ result.ai_action }}</p>
+
+          <h6 class="mt-3">Reply to User</h6>
+          <p class="border p-2 bg-light rounded">{{ result.ai_reply }}</p>
+
+        </div>
+      </div>
+    {% else %}
+      <p class="text-muted">Submit a review to see the AI-generated response.</p>
+    {% endif %}
+  </div>
+</div>
+
+{% endblock %}

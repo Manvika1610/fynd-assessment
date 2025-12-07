@@ -1,0 +1,308 @@
+{
+  "direct": [
+    {
+      "review": "Love this place! Wish we had one here in CA. Great vibe once you walk through that door. Fantastic drinks and goodies!!",
+      "gold": 5,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The review expresses strong positive sentiment with phrases like 'Love this place!' and 'Fantastic drinks and goodies!!', indicating a highly enjoyable experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The review expresses strong positive sentiment with phrases like 'Love this place!' and 'Fantastic drinks and goodies!!', indicating a highly enjoyable experience."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "I was searching for a unique item to give as a Thank You gift and I stopped by Practical Art over the Labor Day weekend after viewing some items on their website.  I was extremely under underwhelmed by the service I received and do not plan on returning.  \n\nWhen I arrived the young woman behind the counter was having a personal conversation with an acquaintance.  Besides the employee and her conversation buddy the store was empty.  I spent about ten minutes looking around and the young woman did not have the common courtesy to acknowledge me with a simple \"Hello\", even as I was viewing items directly in front of the counter.  When I was leaving the store she did break long enough to say \"Bye\".\n\nI believe it is very important to support local business but I will not spend my money here.  I did find several items I wanted to buy and made note of the artist. I have done the extra leg work to reach out to them to find out how to purchase their items through other channels.  I do not feel they should miss a sale due to the sub par customer service at this location.",
+      "gold": 1,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 1,\n  \"explanation\": \"The review expresses extreme dissatisfaction with the customer service \u2013 a lack of acknowledgment and a personal conversation while a customer was present. The reviewer states they will not return and suggests the business should miss out on sales due to the poor service.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 1,
+        "explanation": "The review expresses extreme dissatisfaction with the customer service \u2013 a lack of acknowledgment and a personal conversation while a customer was present. The reviewer states they will not return and suggests the business should miss out on sales due to the poor service."
+      },
+      "predicted": 1
+    },
+    {
+      "review": "1 star for service, but the food is not ok :( they literally put 4 pieces of chicken on my taco. I let that go & figured was a mistake. When I went again, ordered different item & same result. Little to no meat. I will not be going back.",
+      "gold": 1,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 1,\n  \"explanation\": \"The reviewer explicitly states a 1-star rating due to consistently poor food quality (very little meat in tacos) and unsatisfactory service.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 1,
+        "explanation": "The reviewer explicitly states a 1-star rating due to consistently poor food quality (very little meat in tacos) and unsatisfactory service."
+      },
+      "predicted": 1
+    },
+    {
+      "review": "I have been trying to reduce my caloric intake and found out that at Red Robin you can order a \"petite\" burger. It is smaller but has the same toppings you order on the regular. So for those of you that don't want to have a burger that is 1000 calories (yes they are and more with the endless fries) , try the petite.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 3,\n  \"explanation\": \"The review highlights a positive aspect (the petite burger option for calorie-conscious diners) but also mentions the high calorie count of regular burgers and fries, suggesting a mixed experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 3,
+        "explanation": "The review highlights a positive aspect (the petite burger option for calorie-conscious diners) but also mentions the high calorie count of regular burgers and fries, suggesting a mixed experience."
+      },
+      "predicted": 3
+    },
+    {
+      "review": "I had a chicken panini and was more than enough! It was dinner and lunch!\n\nThey have this special bread that is like a big bun. The people is very friendly and patient to explain their different options. Nice place, and for sandwiches it was just good.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer enjoyed the large portion size, the friendly staff, and the overall quality of the sandwich. While not explicitly stating a 5-star experience, the positive comments suggest a very good meal.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer enjoyed the large portion size, the friendly staff, and the overall quality of the sandwich. While not explicitly stating a 5-star experience, the positive comments suggest a very good meal."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "The 4 stars is in comparison to other Chipotle's I've been to, especially in this area.\n\nI have to admit, when they were building this plaza, my friends and I tried to guess every day what it was going to be. We had it narrowed down to a Chipotle or a sushi joint (both would kill me for sure) and I cannot believe we were actually right. \n\nI am pretty pleased with this place. Both times I've stopped by it's been clean and pretty speedy service. Every time I come in, I am surprised by all the extra room around to the side and out on the patio and it makes me happy.\n\nI'm sure anyone reading this has been to Chipotle, but if not, or if you're feeling like trying something new.. my signature dish for the past few years has been carnitas bowl with black beans, corn, fajita, lettuce and a little bit of the dairy stuff. Wash it down with a Nantucket nectar apple juice and you're golden.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer expresses overall satisfaction with the Chipotle, highlighting cleanliness, speed of service, and ample seating. While not ecstatic, the positive comments and comparison to other locations suggest a 4-star rating.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer expresses overall satisfaction with the Chipotle, highlighting cleanliness, speed of service, and ample seating. While not ecstatic, the positive comments and comparison to other locations suggest a 4-star rating."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "Had dinner and brunch, not on the same day...the dinner was good, although I thought the mandala masala could have used more flavor.  Brunch was great, tried 2 different tofu scrambles and both were very good.  Service is...let's say uninterested -- it's hard to be burdened with angst and chipper.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 3,\n  \"explanation\": \"The review highlights both positive (brunch tofu scrambles) and negative (dinner flavor, disinterested service) aspects, leading to an average rating of 3 stars.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 3,
+        "explanation": "The review highlights both positive (brunch tofu scrambles) and negative (dinner flavor, disinterested service) aspects, leading to an average rating of 3 stars."
+      },
+      "predicted": 3
+    },
+    {
+      "review": "While I'm a sushi fan, my husband is a sushi FIEND - we made biweekly trips to his favorite haunt in NYC (Monster Sushi) and if he was on his own for dinner, I could always count on him to be there for a bite.  After relocating to Phoenix, he'd been jonesing hardcore for non-commercial, non-fussy sushi in epic proportions served with a smile.  Our trusted source told us that Kyoto was their favorite and we had to indulge.  The mixed views on Yelp made be a tad nervous, but I like to give places an unbiased chance.  Very glad that I did.\n\nThe interior of the place is a little strange given the shape of the restaurant and lack of windows, but we made ourselves cozy in a table next to the sushi bar.  I also did not notice a pre-club atmosphere - it was chill the night we went, but maybe it was because we went after work (which is probably on the earlier side for the see and be seens).\n\nNo teppan for us that night - it was all about the sushi.  We started with a pleasantly savory miso soup, flavorful seaweed salad and moist, tender tako (octopus) salad.  Next was my favorite dish of the night (and no, not traditional for sushi, but whatever) - a peppered, seared tuna with onion sauce.  Divine!  I could have had three plates of this and called it a day.  Most of the folks in our party ordered rather classic rolls, while I ordered an additional three specialty rolls (Candy Cane, Ichi and Shrimp Tempura - I love to crunch it out).  The rolls were so HUGE we struggled to eat it all.  Keep in mind that those specialty rolls are massive, particularly the Ichi (should have been called Ichi the Killer Roll) which you could barely eat with chopsticks.  I was a mess of dungeoness crab and spicy tuna by the end of the night, but I was happy.\n\nPrice was absolutely fair for the quality of the food - there are many (MANY) overprices sushi places in Scottsdale and many dirt cheap places in the valley.  This one charges fairly and keeps the quality up.  I don't ever mind paying if it's worth it.\n\nWill most definitely come back and hopefully take in some teppan next time :)",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer thoroughly enjoyed the sushi and overall experience, praising the quality, generous portions, and reasonable prices. While noting a slightly unusual atmosphere, they express a strong intention to return.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer thoroughly enjoyed the sushi and overall experience, praising the quality, generous portions, and reasonable prices. While noting a slightly unusual atmosphere, they express a strong intention to return."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "Always reliably good.  Great beer selection as well as fabulous \"bitch fizz\" (ciders, etc.) and cocktails.  Their pizza is outstanding AND they have a healthy menu.  I generally steer clear of chains but this is an exception.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The review uses positive language like 'reliably good,' 'great,' 'outstanding,' and 'fabulous,' indicating a very positive experience. The mention of a healthy menu and a willingness to be an exception to avoiding chains further supports a high rating.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The review uses positive language like 'reliably good,' 'great,' 'outstanding,' and 'fabulous,' indicating a very positive experience. The mention of a healthy menu and a willingness to be an exception to avoiding chains further supports a high rating."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "Well, this is where I got my iPad, and I am hooked of all Apple products.  Yes, they are expensive, but they are so cool.  I am amazed to see little kids playing with the iPads and computers, I am sure they are a lot more tech savvy than me.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer expresses strong positive feelings about Apple products and their appeal, indicating a high level of satisfaction.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer expresses strong positive feelings about Apple products and their appeal, indicating a high level of satisfaction."
+      },
+      "predicted": 4
+    }
+  ],
+  "chain": [
+    {
+      "review": "Love this place! Wish we had one here in CA. Great vibe once you walk through that door. Fantastic drinks and goodies!!",
+      "gold": 5,
+      "raw_response": "The review expresses strong positive feelings (\"Love this place!\", \"Fantastic drinks\") and a desire for a similar establishment in their location. This indicates a very favorable experience.\n```json\n{\n  \"predicted_stars\": 5,\n  \"explanation\": \"The reviewer uses enthusiastic language and expresses a strong desire to have this place closer to home, signaling a highly positive experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 5,
+        "explanation": "The reviewer uses enthusiastic language and expresses a strong desire to have this place closer to home, signaling a highly positive experience."
+      },
+      "predicted": 5.0
+    },
+    {
+      "review": "I was searching for a unique item to give as a Thank You gift and I stopped by Practical Art over the Labor Day weekend after viewing some items on their website.  I was extremely under underwhelmed by the service I received and do not plan on returning.  \n\nWhen I arrived the young woman behind the counter was having a personal conversation with an acquaintance.  Besides the employee and her conversation buddy the store was empty.  I spent about ten minutes looking around and the young woman did not have the common courtesy to acknowledge me with a simple \"Hello\", even as I was viewing items directly in front of the counter.  When I was leaving the store she did break long enough to say \"Bye\".\n\nI believe it is very important to support local business but I will not spend my money here.  I did find several items I wanted to buy and made note of the artist. I have done the extra leg work to reach out to them to find out how to purchase their items through other channels.  I do not feel they should miss a sale due to the sub par customer service at this location.",
+      "gold": 1,
+      "raw_response": "The review expresses strong dissatisfaction with the customer service received, highlighting a lack of acknowledgment and a distracting personal conversation. This negative experience leads the reviewer to state they will not return and seek alternative purchasing methods.\n```json\n{\n  \"predicted_stars\": 1,\n  \"explanation\": \"The review details a profoundly negative experience with the customer service, resulting in a clear and strong dislike of the store.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 1,
+        "explanation": "The review details a profoundly negative experience with the customer service, resulting in a clear and strong dislike of the store."
+      },
+      "predicted": 1.0
+    },
+    {
+      "review": "1 star for service, but the food is not ok :( they literally put 4 pieces of chicken on my taco. I let that go & figured was a mistake. When I went again, ordered different item & same result. Little to no meat. I will not be going back.",
+      "gold": 1,
+      "raw_response": "The customer expresses strong dissatisfaction with the food quality, noting consistently small portions of meat in their orders. This negative experience with the food significantly outweighs the single positive comment about service.\n```json\n{\n  \"predicted_stars\": 1,\n  \"explanation\": \"The customer's repeated complaints about insufficient meat in their meals, coupled with their decision not to return, indicate a very negative dining experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 1,
+        "explanation": "The customer's repeated complaints about insufficient meat in their meals, coupled with their decision not to return, indicate a very negative dining experience."
+      },
+      "predicted": 1.0
+    },
+    {
+      "review": "I have been trying to reduce my caloric intake and found out that at Red Robin you can order a \"petite\" burger. It is smaller but has the same toppings you order on the regular. So for those of you that don't want to have a burger that is 1000 calories (yes they are and more with the endless fries) , try the petite.",
+      "gold": 4,
+      "raw_response": "The review expresses a helpful tip for those watching their calorie intake, highlighting a healthier option at Red Robin. It also subtly criticizes the large, calorie-dense menu items.\n```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The review offers a useful suggestion for health-conscious diners and gently points out the calorie density of other menu items, making it a valuable and relatable piece of advice.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The review offers a useful suggestion for health-conscious diners and gently points out the calorie density of other menu items, making it a valuable and relatable piece of advice."
+      },
+      "predicted": 4.0
+    },
+    {
+      "review": "I had a chicken panini and was more than enough! It was dinner and lunch!\n\nThey have this special bread that is like a big bun. The people is very friendly and patient to explain their different options. Nice place, and for sandwiches it was just good.",
+      "gold": 4,
+      "raw_response": "The review expresses positive feelings about the food, service, and atmosphere of the restaurant. The reviewer enjoyed the meal and found the staff helpful and the place pleasant.\n```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer clearly enjoyed their meal and the experience at the restaurant, praising the food, service, and atmosphere. While not perfect, the overall sentiment is positive.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer clearly enjoyed their meal and the experience at the restaurant, praising the food, service, and atmosphere. While not perfect, the overall sentiment is positive."
+      },
+      "predicted": 4.0
+    },
+    {
+      "review": "The 4 stars is in comparison to other Chipotle's I've been to, especially in this area.\n\nI have to admit, when they were building this plaza, my friends and I tried to guess every day what it was going to be. We had it narrowed down to a Chipotle or a sushi joint (both would kill me for sure) and I cannot believe we were actually right. \n\nI am pretty pleased with this place. Both times I've stopped by it's been clean and pretty speedy service. Every time I come in, I am surprised by all the extra room around to the side and out on the patio and it makes me happy.\n\nI'm sure anyone reading this has been to Chipotle, but if not, or if you're feeling like trying something new.. my signature dish for the past few years has been carnitas bowl with black beans, corn, fajita, lettuce and a little bit of the dairy stuff. Wash it down with a Nantucket nectar apple juice and you're golden.",
+      "gold": 4,
+      "raw_response": "The reviewer expresses overall satisfaction with the Chipotle location, highlighting cleanliness, speed of service, and ample seating. They also recommend a specific dish, indicating a positive dining experience.\n```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer appreciates the cleanliness, speed, and space at the Chipotle, and recommends a specific menu item, suggesting a positive experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer appreciates the cleanliness, speed, and space at the Chipotle, and recommends a specific menu item, suggesting a positive experience."
+      },
+      "predicted": 4.0
+    },
+    {
+      "review": "Had dinner and brunch, not on the same day...the dinner was good, although I thought the mandala masala could have used more flavor.  Brunch was great, tried 2 different tofu scrambles and both were very good.  Service is...let's say uninterested -- it's hard to be burdened with angst and chipper.",
+      "gold": 4,
+      "raw_response": "The review expresses mixed feelings \u2013 positive about the brunch and tofu scrambles, but critical of the dinner and service. The description of the service as \"uninterested\" and evoking \"angst and chipper\" suggests a negative overall experience.\n```json\n{\n  \"predicted_stars\": 3,\n  \"explanation\": \"The review highlights both positive (brunch, tofu scrambles) and negative (dinner flavor, disinterested service) aspects, resulting in a middling rating of 3 stars.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 3,
+        "explanation": "The review highlights both positive (brunch, tofu scrambles) and negative (dinner flavor, disinterested service) aspects, resulting in a middling rating of 3 stars."
+      },
+      "predicted": 3.0
+    },
+    {
+      "review": "While I'm a sushi fan, my husband is a sushi FIEND - we made biweekly trips to his favorite haunt in NYC (Monster Sushi) and if he was on his own for dinner, I could always count on him to be there for a bite.  After relocating to Phoenix, he'd been jonesing hardcore for non-commercial, non-fussy sushi in epic proportions served with a smile.  Our trusted source told us that Kyoto was their favorite and we had to indulge.  The mixed views on Yelp made be a tad nervous, but I like to give places an unbiased chance.  Very glad that I did.\n\nThe interior of the place is a little strange given the shape of the restaurant and lack of windows, but we made ourselves cozy in a table next to the sushi bar.  I also did not notice a pre-club atmosphere - it was chill the night we went, but maybe it was because we went after work (which is probably on the earlier side for the see and be seens).\n\nNo teppan for us that night - it was all about the sushi.  We started with a pleasantly savory miso soup, flavorful seaweed salad and moist, tender tako (octopus) salad.  Next was my favorite dish of the night (and no, not traditional for sushi, but whatever) - a peppered, seared tuna with onion sauce.  Divine!  I could have had three plates of this and called it a day.  Most of the folks in our party ordered rather classic rolls, while I ordered an additional three specialty rolls (Candy Cane, Ichi and Shrimp Tempura - I love to crunch it out).  The rolls were so HUGE we struggled to eat it all.  Keep in mind that those specialty rolls are massive, particularly the Ichi (should have been called Ichi the Killer Roll) which you could barely eat with chopsticks.  I was a mess of dungeoness crab and spicy tuna by the end of the night, but I was happy.\n\nPrice was absolutely fair for the quality of the food - there are many (MANY) overprices sushi places in Scottsdale and many dirt cheap places in the valley.  This one charges fairly and keeps the quality up.  I don't ever mind paying if it's worth it.\n\nWill most definitely come back and hopefully take in some teppan next time :)",
+      "gold": 4,
+      "raw_response": "The review expresses strong positive feelings about the sushi, atmosphere, and value of the restaurant. The reviewer clearly enjoyed the food and experience, and is eager to return.\n```json\n{\n  \"predicted_stars\": 5,\n  \"explanation\": \"The reviewer consistently uses positive language and expresses high satisfaction with the food, atmosphere, and price, indicating a very positive dining experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 5,
+        "explanation": "The reviewer consistently uses positive language and expresses high satisfaction with the food, atmosphere, and price, indicating a very positive dining experience."
+      },
+      "predicted": 5.0
+    },
+    {
+      "review": "Always reliably good.  Great beer selection as well as fabulous \"bitch fizz\" (ciders, etc.) and cocktails.  Their pizza is outstanding AND they have a healthy menu.  I generally steer clear of chains but this is an exception.",
+      "gold": 4,
+      "raw_response": "This review expresses strong positive sentiment about the restaurant, highlighting excellent beer, cider, cocktails, pizza, and a healthy menu. The reviewer explicitly states it's an exception to their usual preference for non-chain restaurants.\n```json\n{\n  \"predicted_stars\": 4.5,\n  \"explanation\": \"The reviewer uses enthusiastic language like 'always reliably good,' 'outstanding,' and 'fabulous,' and praises multiple aspects of the restaurant. Despite being a chain, the quality is so high that it warrants a high rating.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4.5,
+        "explanation": "The reviewer uses enthusiastic language like 'always reliably good,' 'outstanding,' and 'fabulous,' and praises multiple aspects of the restaurant. Despite being a chain, the quality is so high that it warrants a high rating."
+      },
+      "predicted": 4.5
+    },
+    {
+      "review": "Well, this is where I got my iPad, and I am hooked of all Apple products.  Yes, they are expensive, but they are so cool.  I am amazed to see little kids playing with the iPads and computers, I am sure they are a lot more tech savvy than me.",
+      "gold": 4,
+      "raw_response": "The reviewer expresses strong positive feelings about Apple products, describing them as \"cool\" and \"amazing,\" and highlights their enjoyment of seeing children using them. This indicates a very positive sentiment.\n```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"The reviewer uses enthusiastic language and expresses amazement at the products and their use, suggesting a high level of satisfaction.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "The reviewer uses enthusiastic language and expresses amazement at the products and their use, suggesting a high level of satisfaction."
+      },
+      "predicted": 4.0
+    }
+  ],
+  "fewshot": [
+    {
+      "review": "Love this place! Wish we had one here in CA. Great vibe once you walk through that door. Fantastic drinks and goodies!!",
+      "gold": 5,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 5,\n  \"explanation\": \"Strong positive sentiment expressing love for the place and praising the atmosphere, drinks, and food.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 5,
+        "explanation": "Strong positive sentiment expressing love for the place and praising the atmosphere, drinks, and food."
+      },
+      "predicted": 5
+    },
+    {
+      "review": "I was searching for a unique item to give as a Thank You gift and I stopped by Practical Art over the Labor Day weekend after viewing some items on their website.  I was extremely under underwhelmed by the service I received and do not plan on returning.  \n\nWhen I arrived the young woman behind the counter was having a personal conversation with an acquaintance.  Besides the employee and her conversation buddy the store was empty.  I spent about ten minutes looking around and the young woman did not have the common courtesy to acknowledge me with a simple \"Hello\", even as I was viewing items directly in front of the counter.  When I was leaving the store she did break long enough to say \"Bye\".\n\nI believe it is very important to support local business but I will not spend my money here.  I did find several items I wanted to buy and made note of the artist. I have done the extra leg work to reach out to them to find out how to purchase their items through other channels.  I do not feel they should miss a sale due to the sub par customer service at this location.",
+      "gold": 1,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 2,\n  \"explanation\": \"Strongly negative experience due to poor customer service and lack of acknowledgment.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 2,
+        "explanation": "Strongly negative experience due to poor customer service and lack of acknowledgment."
+      },
+      "predicted": 2
+    },
+    {
+      "review": "1 star for service, but the food is not ok :( they literally put 4 pieces of chicken on my taco. I let that go & figured was a mistake. When I went again, ordered different item & same result. Little to no meat. I will not be going back.",
+      "gold": 1,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 2,\n  \"explanation\": \"Very negative experience due to consistently poor food quality (lack of meat).\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 2,
+        "explanation": "Very negative experience due to consistently poor food quality (lack of meat)."
+      },
+      "predicted": 2
+    },
+    {
+      "review": "I have been trying to reduce my caloric intake and found out that at Red Robin you can order a \"petite\" burger. It is smaller but has the same toppings you order on the regular. So for those of you that don't want to have a burger that is 1000 calories (yes they are and more with the endless fries) , try the petite.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"Informative review highlighting a healthier option and addressing calorie concerns.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "Informative review highlighting a healthier option and addressing calorie concerns."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "I had a chicken panini and was more than enough! It was dinner and lunch!\n\nThey have this special bread that is like a big bun. The people is very friendly and patient to explain their different options. Nice place, and for sandwiches it was just good.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"Positive experience with food quantity, bread, staff friendliness, and overall sandwich quality.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "Positive experience with food quantity, bread, staff friendliness, and overall sandwich quality."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "The 4 stars is in comparison to other Chipotle's I've been to, especially in this area.\n\nI have to admit, when they were building this plaza, my friends and I tried to guess every day what it was going to be. We had it narrowed down to a Chipotle or a sushi joint (both would kill me for sure) and I cannot believe we were actually right. \n\nI am pretty pleased with this place. Both times I've stopped by it's been clean and pretty speedy service. Every time I come in, I am surprised by all the extra room around to the side and out on the patio and it makes me happy.\n\nI'm sure anyone reading this has been to Chipotle, but if not, or if you're feeling like trying something new.. my signature dish for the past few years has been carnitas bowl with black beans, corn, fajita, lettuce and a little bit of the dairy stuff. Wash it down with a Nantucket nectar apple juice and you're golden.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"Positive experience with cleanliness, speed, and ample space. The reviewer expresses satisfaction and recommends a specific dish.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "Positive experience with cleanliness, speed, and ample space. The reviewer expresses satisfaction and recommends a specific dish."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "Had dinner and brunch, not on the same day...the dinner was good, although I thought the mandala masala could have used more flavor.  Brunch was great, tried 2 different tofu scrambles and both were very good.  Service is...let's say uninterested -- it's hard to be burdened with angst and chipper.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"Mixed experience: dinner was good but lacked flavor, brunch was excellent, and service was lackluster.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "Mixed experience: dinner was good but lacked flavor, brunch was excellent, and service was lackluster."
+      },
+      "predicted": 4
+    },
+    {
+      "review": "While I'm a sushi fan, my husband is a sushi FIEND - we made biweekly trips to his favorite haunt in NYC (Monster Sushi) and if he was on his own for dinner, I could always count on him to be there for a bite.  After relocating to Phoenix, he'd been jonesing hardcore for non-commercial, non-fussy sushi in epic proportions served with a smile.  Our trusted source told us that Kyoto was their favorite and we had to indulge.  The mixed views on Yelp made be a tad nervous, but I like to give places an unbiased chance.  Very glad that I did.\n\nThe interior of the place is a little strange given the shape of the restaurant and lack of windows, but we made ourselves cozy in a table next to the sushi bar.  I also did not notice a pre-club atmosphere - it was chill the night we went, but maybe it was because we went after work (which is probably on the earlier side for the see and be seens).\n\nNo teppan for us that night - it was all about the sushi.  We started with a pleasantly savory miso soup, flavorful seaweed salad and moist, tender tako (octopus) salad.  Next was my favorite dish of the night (and no, not traditional for sushi, but whatever) - a peppered, seared tuna with onion sauce.  Divine!  I could have had three plates of this and called it a day.  Most of the folks in our party ordered rather classic rolls, while I ordered an additional three specialty rolls (Candy Cane, Ichi and Shrimp Tempura - I love to crunch it out).  The rolls were so HUGE we struggled to eat it all.  Keep in mind that those specialty rolls are massive, particularly the Ichi (should have been called Ichi the Killer Roll) which you could barely eat with chopsticks.  I was a mess of dungeoness crab and spicy tuna by the end of the night, but I was happy.\n\nPrice was absolutely fair for the quality of the food - there are many (MANY) overprices sushi places in Scottsdale and many dirt cheap places in the valley.  This one charges fairly and keeps the quality up.  I don't ever mind paying if it's worth it.\n\nWill most definitely come back and hopefully take in some teppan next time :)",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 5,\n  \"explanation\": \"Highly positive review praising food quality, generous portions, reasonable prices, and overall experience.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 5,
+        "explanation": "Highly positive review praising food quality, generous portions, reasonable prices, and overall experience."
+      },
+      "predicted": 5
+    },
+    {
+      "review": "Always reliably good.  Great beer selection as well as fabulous \"bitch fizz\" (ciders, etc.) and cocktails.  Their pizza is outstanding AND they have a healthy menu.  I generally steer clear of chains but this is an exception.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 5,\n  \"explanation\": \"Strongly positive, highlighting consistent quality, diverse drinks, excellent pizza, and a healthy option \u2013 a clear exception to the reviewer's usual preference for non-chain restaurants.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 5,
+        "explanation": "Strongly positive, highlighting consistent quality, diverse drinks, excellent pizza, and a healthy option \u2013 a clear exception to the reviewer's usual preference for non-chain restaurants."
+      },
+      "predicted": 5
+    },
+    {
+      "review": "Well, this is where I got my iPad, and I am hooked of all Apple products.  Yes, they are expensive, but they are so cool.  I am amazed to see little kids playing with the iPads and computers, I am sure they are a lot more tech savvy than me.",
+      "gold": 4,
+      "raw_response": "```json\n{\n  \"predicted_stars\": 4,\n  \"explanation\": \"Positive sentiment about Apple products and their appeal, despite acknowledging their high price.\"\n}\n```",
+      "parsed_json": {
+        "predicted_stars": 4,
+        "explanation": "Positive sentiment about Apple products and their appeal, despite acknowledging their high price."
+      },
+      "predicted": 4
+    }
+  ]
+}
