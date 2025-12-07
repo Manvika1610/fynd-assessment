@@ -7,7 +7,7 @@ services:
     env: python
     plan: free
     buildCommand: bash build.sh
-    startCommand: cd fynd_task2 && gunicorn fynd_task2.wsgi --log-file -
+    startCommand: bash start.sh
     envVars:
       - key: DJANGO_SECRET_KEY
         generateValue: true
