@@ -15,9 +15,9 @@ Included content
 - `PROJECT_README.md` — this file.
 - `DEPLOYMENT.md` — instructions and placeholders to add deployment links.
 
-Deployment links (replace placeholders in `PROJECT_README.md` and `DEPLOYMENT.md`):
+Deployment links (live dashboards):
 
-- Task 1 Notebook (hosted): <YOUR_TASK1_NOTEBOOK_DEPLOY_URL>
-- Task 2 Django Dashboard: <YOUR_TASK2_DASHBOARD_URL>
+- Task 1 Notebook (Binder): https://hub.gesis.mybinder.org/user/manvika1610-fynd-assessment-1a64vda8/doc/tree/task1_rating_prompting.ipynb
+- Task 2 Django Dashboard: https://fynd-task2-dashboard.onrender.com/
 
 If you want, I can help deploy both dashboards and populate the links here.

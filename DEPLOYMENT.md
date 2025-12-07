@@ -2,10 +2,10 @@
 
 This file contains guidance and placeholders for publishing both Task 1 and Task 2 dashboards. Replace the placeholder URLs below with your live deployment links.
 
-## Required links (placeholders)
+## Required links (live dashboards)
 
-- Task 1 Notebook (e.g., Binder / Voila / NBViewer): <YOUR_TASK1_NOTEBOOK_DEPLOY_URL>
-- Task 2 Django Dashboard: <YOUR_TASK2_DASHBOARD_URL>
+- Task 1 Notebook (Binder): https://hub.gesis.mybinder.org/user/manvika1610-fynd-assessment-1a64vda8/doc/tree/task1_rating_prompting.ipynb
+- Task 2 Django Dashboard: https://fynd-task2-dashboard.onrender.com/
 
 ## Task 1 — Notebook hosting options
 

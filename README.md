@@ -7,7 +7,7 @@ This repository contains two tasks bundled in one project:
 
 ## 📊 Live Dashboards (Deploy Links)
 
-- **Task 1 — Interactive Notebook** (Binder): https://mybinder.org/v2/gh/Manvika1610/fynd-assessment/main?urlpath=%2Fdoc%2Ftree%2Ftask1_rating_prompting.ipynb
+- **Task 1 — Interactive Notebook** (Binder): https://hub.gesis.mybinder.org/user/manvika1610-fynd-assessment-1a64vda8/doc/tree/task1_rating_prompting.ipynb
 - **Task 2 — Feedback Dashboard** (Django on Render): https://fynd-task2-dashboard.onrender.com/
 
 ## 📁 Repository Structure
@@ -82,7 +82,7 @@ The notebook (`task1_rating_prompting.ipynb`) demonstrates prompt engineering te
 
 Evaluate each approach against a sample of 200 Yelp reviews and compare accuracy and JSON parsing rates.
 
-**Live Binder Link**: https://mybinder.org/v2/gh/Manvika1610/fynd-assessment/main?urlpath=%2Fdoc%2Ftree%2Ftask1_rating_prompting.ipynb
+**Live Binder Link**: https://hub.gesis.mybinder.org/user/manvika1610-fynd-assessment-1a64vda8/doc/tree/task1_rating_prompting.ipynb
 
 ## 💬 Task 2: Feedback Dashboard
 
