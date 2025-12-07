@@ -142,3 +142,34 @@ For manual deployment details, see `DEPLOYMENT.md` and `QUICK_DEPLOY_GUIDE.md`.
 ---
 
 **Happy coding!** 🎉
+
+## 🔎 Quick Demo
+
+1. Visit the live dashboard: `https://fynd-task2-dashboard.onrender.com`.
+2. Submit a sample review and select a star rating (1–5).
+3. After submitting, the page shows the saved review and the AI-generated fields:
+    - **Summary** — short 1–2 sentence summary.
+    - **Action** — suggested business action.
+    - **Reply** — a friendly response to the reviewer.
+4. Verify the review appears in the admin dashboard at `/admin-dashboard/` (or the Admin site if you enabled it).
+
+## 🛠 Maintenance & Troubleshooting
+
+- **Rotate API keys**: Set a new `OPENROUTER_API_KEY` in the Render dashboard (Service → Settings → Environment). After saving, Render will redeploy the service.
+- **Rate limits**: Free OpenRouter keys have daily quotas. If you receive `429` rate-limit errors, either wait for daily reset or add credits in your OpenRouter account to increase limits.
+- **Logs**: Check Render logs for runtime errors and LLM API responses. Common auth errors show as `401` (invalid key) or `429` (rate limit).
+- **Static files warning**: If you see `No directory at: /opt/render/project/src/fynd_task2/staticfiles/`, run `python manage.py collectstatic` during build or ensure `STATIC_ROOT` is configured (already set in `settings.py`).
+- **Local testing**:
+   ```powershell
+   cd fynd_task2
+   python -m pip install -r ../requirements.txt
+   python manage.py migrate
+   python manage.py runserver
+   ```
+
+## ✅ Next steps
+
+- Add unit tests for `feedback/llm_client.py` (mock the HTTP calls).
+- Add monitoring (Sentry) to capture production exceptions and LLM failures.
+- Tag and create a GitHub release with deployment links and summary of fixes.
+
